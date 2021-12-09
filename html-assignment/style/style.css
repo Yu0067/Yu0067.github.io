@@ -30,3 +30,6 @@ header, footer {
     background-color: blue;
     color: white;
 }
+dd:nth-child(odd) {
+    background-color: turquoise;
+}
