@@ -1,7 +1,9 @@
 body{
     font-size: 18px;
     font-family: Arial;
+    padding: 0;
+    margin: 0;
 }
-header, footer{
+header, footer {
     background-color: rgb(250, 235, 27);
 }
