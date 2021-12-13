@@ -232,7 +232,7 @@ background-color: white;
     border-collapse: collapse;
 }
 .box6-table table, th,td {
-    collapse;border: 1px solid black;
+    border: 1px solid black;
     padding: 18px
 }
 .box6-table th {
