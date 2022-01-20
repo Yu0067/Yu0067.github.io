@@ -274,9 +274,10 @@ background-color: white;
 
     .about-box2 {
         max-width: 1600px;
-        margin: 0 auto;
+        margin: auto;
         display: flex;
         flex-direction: row;
+        position: relative;
     }
 
     .service-box3 {
